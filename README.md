@@ -74,7 +74,5 @@ Make sure you have the following programs installed on your system before runnin
 
 ## Developer
 
-This repository is developed by Deni Gentara.
-
 Connect with me on Instagram: [@denigentarcandana.id](https://www.instagram.com/denigentarcandana.id/)
 
